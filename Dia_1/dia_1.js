@@ -1,0 +1,1 @@
+// Dia uno del curso de JavaScript, espero terminarlo en 2 dias jeje, esto solo es de repaso y como el video tiene proyectos, los subiere a github para no perder el registro diario
